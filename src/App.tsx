@@ -52,7 +52,7 @@ function App() {
               </li>
             ))}
           </ul>
-          <div>項目名をクリックするとその項目が削除されます</div>
+          <div>項目名をクリックすると削除されます</div>
         </main>
       )}
     </Authenticator>
